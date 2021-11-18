@@ -11,7 +11,7 @@ Le stockage de l'information se fait sur papier, le traitement de l'information 
 
 ## Raison d'être
 
-Je décline ici les différents objectifs du projet Ordiclasseur.
+J'énumère ici les différents objectifs du projet Ordiclasseur.
 
 ### Donner du sens
 
@@ -26,11 +26,13 @@ Un jour, nous allons rencontrer la mort. Il y aura un moment où il ne restera p
 
 ### Agir vers une singularité spirituelle
 
-Ordiclasseur s'intègre dans une démarche plus globale d'avancée vers la singularité spirituelle.
+Ordiclasseur s'intègre dans un cadre plus global d'avancée vers une "singularité" spirituelle.
 
 La notion de singularité spirituelle s'entend par opposition au concept de [singularité technologique](https://fr.wikipedia.org/wiki/Singularit%C3%A9_technologique). Il s'agit d'un moment dans l'évolution de l'humanité, à partir duquel le degré de développement spirituel atteindra une masse critique telle que la société encouragera les comportements altruistes plutôt qu'égoïstes, valorisera l'entraide plutôt que la compétition, ce qui augmentera de manière exponentielle la vitesse de notre évolution spirituelle, en un cercle vertueux.
 
 Cette singularité spirituelle est accessible et nécessaire à notre survie. Elle ne sera pas laïque au sens où nulle religion n'y aurait sa place, mais au contraire ouverte et connectée à chaque religion, et à chaque sensibilité, car la diversité des religions et des philosophies humaines est un trésor que nous devons préserver, tout comme la diversité des espèces animales et végétales dans le domaine de l'écologie.
+
+Ordiclasseur est "compatible" avec toutes les religions.
 
 ### Revenir à une technologie simple
 
