@@ -21,8 +21,8 @@ Un jour, nous allons rencontrer la mort. Il y aura un moment où il ne restera p
 - Pour pouvoir aider les autres, il faut soi-même être heureux.
 - Pour être heureux il faut pouvoir vivre pleinement l'instant présent.
 - Pour vraiment vivre dans l'ici et le maintenant, il faut se libérer de l'avenir et du passé.
-- Pour se libérer, dans notre monde complexe, il faut s'organiser.
-- Pour nous organiser, nous avons besoin d'un support fluide, adaptif et privé pour stocker l'information. Pour nous organiser nous avons besoin de méthodes claires.
+- Pour se libérer, dans notre monde complexe, il faut s'organiser et se discipliner.
+- Pour nous organiser, nous avons besoin d'un support fluide, adaptif et privé pour stocker l'information. Pour nous discipliner nous avons besoin de méthodes claires.
 
 ### Agir vers une singularité spirituelle
 
