@@ -32,7 +32,7 @@ La notion de singularité spirituelle s'entend par opposition au concept de [sin
 
 Cette singularité spirituelle est accessible et nécessaire à notre survie. Elle ne sera pas laïque au sens où nulle religion n'y aurait sa place, mais au contraire ouverte et connectée à chaque religion, et à chaque sensibilité, car la diversité des religions et des philosophies humaines est un trésor que nous devons préserver, tout comme la diversité des espèces animales et végétales dans le domaine de l'écologie.
 
-Ordiclasseur est "compatible" avec toutes les religions.
+Ordiclasseur est "compatible" avec toutes les religions et toutes les non-religions.
 
 ### Revenir à une technologie simple
 
