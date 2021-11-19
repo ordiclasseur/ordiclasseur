@@ -68,6 +68,6 @@ Le projet Ordiclasseur est sous Licence Creative Commons [Attribution - Partage 
 
 
 ![](binder-pic.jpg)
-*Illustrations libres de droits / [Pixabay](https://pixabay.com/service/license/)*
+*Illustrations / [Pixabay](https://pixabay.com/service/license/)*
 
 
