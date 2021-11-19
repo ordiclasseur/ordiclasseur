@@ -29,7 +29,7 @@ La simplicité de la technologie utilisée ici est peut-être le plus important 
 
 ### Objectif 2 - Donner du sens
 
-Un jour, nous allons rencontrer la mort. Il y aura un moment où il ne restera plus que quelques heures, puis un moment où il ne restera plus que quelques minutes ; puis un moment où il ne restera plus que quelques secondes ; puis le moment.
+Un jour, nous allons rencontrer la mort. Il y aura un moment où il ne restera plus que quelques heures, puis un moment où il ne restera plus que quelques minutes ; puis un moment où il ne restera plus que quelques secondes... puis le moment.
 
 - Pour donner un sens à sa vie, il faut aider les autres à être heureux.
 - Pour pouvoir aider les autres, il faut soi-même être heureux.
