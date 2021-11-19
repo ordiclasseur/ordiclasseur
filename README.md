@@ -43,7 +43,7 @@ Un jour, nous allons rencontrer la mort. Il y aura un moment où il ne restera p
 
 ### Objectif 3 - Agir vers une singularité spirituelle
 
-Ordiclasseur s'intègre dans un cadre plus global d'avancée vers une "singularité" spirituelle.
+Ordiclasseur s'inscrit dans un cadre plus global d'avancée vers une "singularité" spirituelle.
 
 La notion de singularité spirituelle s'entend *par opposition* au concept de [singularité technologique](https://fr.wikipedia.org/wiki/Singularit%C3%A9_technologique). Il s'agit d'un moment dans l'évolution de l'humanité, à partir duquel le degré de développement spirituel atteindra une masse critique telle que la société commencera à encourager les comportements altruistes plutôt qu'égoïstes, valorisera l'entraide plutôt que la compétition, ce qui augmentera de manière exponentielle la vitesse de notre évolution spirituelle, en un cercle vertueux.
 
