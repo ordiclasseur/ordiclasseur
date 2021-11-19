@@ -13,6 +13,8 @@ Le stockage de l'information se fait sur papier, le traitement de l'information 
 
 J'énumère ici les différents objectifs du projet Ordiclasseur.
 
+
+
 ### Objectif 1 - Revenir à une technologie simple
 
 La simplicité de la technologie utilisée ici est peut-être le plus important de tous les atouts d'un Ordiclasseur.
@@ -22,6 +24,8 @@ La simplicité de la technologie utilisée ici est peut-être le plus important 
 1. L'outil n'absorbe pas l'utilisateur. *L'écriture est une activité corporelle.*
 1. C'est mieux pour l'environnement. *Le papier se recycle.*
 1. Le contact redevient humain. *Une correspondance épistolaire, c'est chaleureux.*
+
+
 
 ### Objectif 2 - Donner du sens
 
@@ -35,6 +39,8 @@ Un jour, nous allons rencontrer la mort. Il y aura un moment où il ne restera p
     - Pour nous organiser, nous avons besoin d'un support fluide, adaptif et privé pour stocker l'information.
     - Pour nous discipliner nous avons besoin de méthodes claires, que nous choisissons en conscience.
 
+
+
 ### Objectif 3 - Agir vers une singularité spirituelle
 
 Ordiclasseur s'intègre dans un cadre plus global d'avancée vers une "singularité" spirituelle.
@@ -44,4 +50,19 @@ La notion de singularité spirituelle s'entend *par opposition* au concept de [s
 Cette singularité spirituelle est accessible et nécessaire à notre survie. Elle ne sera pas laïque au sens où nulle religion n'y aurait sa place, mais au contraire ouverte et connectée à chaque religion, et à chaque sensibilité, car la diversité des religions et des philosophies humaines est un trésor que nous devons préserver.
 
 C'est pourquoi Ordiclasseur est "compatible" avec toutes les religions et toutes les non-religions.
+
+
+
+## Contributeurs
+
+- Julien Laguerre
+
+
+
+## Licence Creative Commons
+
+[Attribution - Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/)
+
+![Licence Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
 
