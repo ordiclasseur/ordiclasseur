@@ -66,3 +66,8 @@ C'est pourquoi Ordiclasseur est "compatible" avec toutes les religions et toutes
 ![Licence Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 
+
+![](binder-pic.jpg)
+*Illustrations libres de droits / [Pixabay](https://pixabay.com/service/license/)*
+
+
