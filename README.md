@@ -55,7 +55,7 @@ C'est pourquoi Ordiclasseur est "compatible" avec toutes les religions et toutes
 
 ### Note sur la (non) dimension spirituelle
 
-Parler de spiritualité dans un tel projet peut surprendre, et à vrai dire c'est la seule fois où ces notions seront évoquées : c'est bien un projet axé sur l'auto-organisation, et rien d'autre. Mais il me semblait important de le situer d'emblée dans une perspective plus large.
+Parler de spiritualité dans un tel projet peut surprendre, et à vrai dire c'est la seule fois où ces notions seront évoquées : c'est bien un projet axé sur l'auto-organisation (pour vivre mieux), et rien d'autre. Mais il me semblait important de le situer d'emblée dans une perspective plus large.
 
 
 
