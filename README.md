@@ -55,7 +55,7 @@ C'est pourquoi Ordiclasseur est "compatible" avec toutes les religions et toutes
 
 ## Contributeurs
 
-- Zero
+- Julien Laguerre
 
 
 
