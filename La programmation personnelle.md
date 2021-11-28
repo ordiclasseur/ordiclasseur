@@ -14,7 +14,6 @@ L'idée de la programmation personnelle est la suivante. De notre comportement, 
 - L'ignorance, l'oubli,
 - Le désir, la convoitise, l'attachement,
 - La colère, la haine, l'aversion,
-- Les valeurs toxiques de notre société de consommation
 - ...et bien d'autres choses.
 
 On sait toujours quand on a fait une chose "malgré nous".
