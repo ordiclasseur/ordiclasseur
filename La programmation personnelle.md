@@ -20,4 +20,4 @@ On sait toujours quand on a fait une chose "malgré nous".
 
 Le but est donc de prendre le contrôle de notre comportement pour le composer de choses que nous choisissons volontairement.
 
-Si on devait la décrire vite, on pourrait dire que la programmation personnelle consiste à créer pour soi-même des recettes et des menus pour les jours à venir, à ceci près que ce ne sont pas des menus et des recettes de cuisine, *mais de vie au sens large.*
+Si on devait la décrire vite, on pourrait dire que la programmation personnelle consiste à créer pour soi-même des recettes et des menus pour les jours à venir, à ceci près que ce ne sont pas des recettes de cuisine, *mais des recettes de vie au sens large.*
