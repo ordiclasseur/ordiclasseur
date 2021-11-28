@@ -17,4 +17,6 @@ L'idée de la programmation personnelle est la suivante. De notre comportement, 
 - Les valeurs toxiques de notre société de consommation
 - ...et bien d'autres choses.
 
-On sait toujours quand on a fait une chose "malgré soi".
+On sait toujours quand on a fait une chose "malgré nous".
+
+Le but est donc de prendre le contrôle de notre comportement pour qu'il ne soit composé que de choses que nous choisissons volontairement.
